@@ -4,10 +4,10 @@
     <g transform="matrix(1,0,0,1,-151,-162)">
         <g id="objective_check" transform="matrix(1,0,0,1,151.292,162.377)">
             <rect x="0" y="0" width="128" height="128" style="fill:none;"/>
-            <g transform="matrix(0.757193,-0.0132154,0.0132154,0.757193,-100.041,18.8626)">
+            <g transform="matrix(0.378596,-0.00660772,0.00660772,0.378596,-18.3312,42.4322)">
                 <path d="M159.627,9.004L269.713,123" style="fill:none;stroke:rgb(242,13,94);stroke-width:22.01px;"/>
             </g>
-            <g transform="matrix(-0.0132154,-0.757193,0.757193,-0.0132154,16.239,229.42)">
+            <g transform="matrix(-0.00660772,-0.378596,0.378596,-0.00660772,39.8086,147.711)">
                 <path d="M159.627,9.004L269.713,123" style="fill:none;stroke:rgb(242,13,94);stroke-width:22.01px;"/>
             </g>
         </g>

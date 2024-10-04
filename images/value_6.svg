@@ -4,10 +4,10 @@
     <g transform="matrix(1,0,0,1,-654,-544)">
         <g id="value_6" transform="matrix(1,0,0,1,654.582,544.612)">
             <rect x="0" y="0" width="128" height="128" style="fill:none;"/>
-            <g transform="matrix(0.921875,0,0,0.921875,5,5)">
-                <path d="M128,12.8L128,115.2C128,122.265 122.265,128 115.2,128L12.8,128C5.735,128 0,122.265 0,115.2L0,12.8C0,5.735 5.735,0 12.8,0L115.2,0C122.265,0 128,5.735 128,12.8Z" style="fill:rgb(13,121,242);stroke:rgb(13,121,242);stroke-width:4.52px;"/>
+            <g transform="matrix(0.23047,0,0,0.23047,49.2499,49.2499)">
+                <path d="M128,12.8L128,115.2C128,122.265 122.265,128 115.2,128L12.8,128C5.735,128 0,122.265 0,115.2L0,12.8C0,5.735 5.735,0 12.8,0L115.2,0C122.265,0 128,5.735 128,12.8Z" style="fill:rgb(13,121,242);stroke:rgb(13,121,242);stroke-width:18.08px;"/>
             </g>
-            <g transform="matrix(1,0,0,1,-296.063,8.37248)">
+            <g transform="matrix(0.250001,0,0,0.250001,-25.2151,50.0626)">
                 <g transform="matrix(92.2337,0,0,92.2337,388.357,92.5726)">
                 </g>
                 <text x="335.046px" y="92.573px" style="font-family:'Bonoco2023', 'Bonoco 2023';font-style:italic;font-size:92.234px;fill:white;">6</text>

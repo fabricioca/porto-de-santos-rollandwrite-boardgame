@@ -4,10 +4,10 @@
     <g transform="matrix(1,0,0,1,-151,0)">
         <g id="bonus_use" transform="matrix(1,0,0,1,151.292,0)">
             <rect x="0" y="0" width="128" height="128" style="fill:none;"/>
-            <g transform="matrix(0.933593,-0.0162942,0.0162942,0.933593,-138.112,7.88082)">
+            <g transform="matrix(0.700195,-0.0122206,0.0122206,0.700195,-87.7392,22.4111)">
                 <path d="M159.627,9.004L269.713,123" style="fill:none;stroke:rgb(13,121,242);stroke-width:17.85px;"/>
             </g>
-            <g transform="matrix(-0.0162942,-0.933593,0.933593,-0.0162942,5.25719,267.492)">
+            <g transform="matrix(-0.0122206,-0.700195,0.700195,-0.0122206,19.7874,217.119)">
                 <path d="M159.627,9.004L269.713,123" style="fill:none;stroke:rgb(13,121,242);stroke-width:17.85px;"/>
             </g>
         </g>
